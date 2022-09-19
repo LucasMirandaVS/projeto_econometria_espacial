@@ -1,1 +1,1 @@
-# projeto_econometria_espacial
+# Analisando as relações entre renda e criminalidade em Minas Gerais
