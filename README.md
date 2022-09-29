@@ -1,6 +1,6 @@
 # Analisando as relações entre renda e criminalidade em Minas Gerais
 
-Neste projeto, fiz uso de uma análise de regressão para invetsigar as relações entre nível de renda e criminalidade nos municípios de Minas Gerais. O projeto foi realizado usando a linguagem R.
+Neste projeto, fiz uso de uma análise de regressão para invetsigar as relações entre nível de renda e criminalidade nos municípios de Minas Gerais,  usando a linguagem R. Originalmente, este projeto foi desenvolvido como parte do meu Trabalho de Conclusão de Curso na graduação de Economia. Entretanto, na ocasião o projeto foi realizado usando o software estatístico Stata. Está é portanto uma adaptação do projeto original usando R, mas com os mesmos dados e metodologia.
 
 ## Motivação
 
